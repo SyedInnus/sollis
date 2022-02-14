@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SollisHealth.Login", "SollisHealth.Login\SollisHealth.Login.csproj", "{E1A31BE0-9756-4902-B48B-F8D8610128D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SollisHealth.Login.UnitTest", "SollisHealth.Login.UnitTest\SollisHealth.Login.UnitTest.csproj", "{8EB342DB-153A-4122-9705-000C9EF0B589}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SollisHealth.Common.Helpers", "SollisHealth.Common.Helpers\SollisHealth.Common.Helpers.csproj", "{3543F93A-57F1-4362-9657-6D1CB1A5943C}"
 EndProject
 Global
